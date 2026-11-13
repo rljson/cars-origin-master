@@ -22,7 +22,7 @@ Master der Seite origin der cars-Beispiel-App, wo Kataloge ursprünglich erfasst
   antwortet er mit dem Hello World: `GET /`, `GET /api/hello` und
   `GET /health`
 - Er läuft als Container App `ca-cars-origin-master-<stage>` in den Stufen `dev`,
-  `stage` und `prod`
+  `test` und `prod`
 
 ## Installation
 
